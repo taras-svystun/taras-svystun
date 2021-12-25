@@ -23,7 +23,7 @@
 - loving :blue_heart::yellow_heart:
 - volunteering 	:earth_africa:
 
-#### What am I doing?
+### What am I doing?
 #### 🌱 I’m currently learning IT & Business Analytics
 #### 👯 I’m looking to collaborate on anything:
 * programming
