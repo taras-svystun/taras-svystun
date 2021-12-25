@@ -32,8 +32,8 @@
 - volunteering 	:earth_africa:
 
 #### 👯 I’m looking to collaborate on anything:
-* programming
-* any research
+* programming: Python, Java, C++
+* any research: R or Excel
 * humor
 * maths
 * sports
