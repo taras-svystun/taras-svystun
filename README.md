@@ -19,7 +19,7 @@
 #### 🌱 I’m currently learning IT & Business Analytics at Ukrainian Catholic University
 
 
-## If you got impressed - offer me a job	:point_right::point_left:!
+## If you got impressed - offer me a job	:point_right::point_left:
 
 ### [Taras_Svystun_CV.pdf](https://github.com/taras-svystun/taras-svystun/files/7775706/Taras_Svystun_CV.pdf)
 
