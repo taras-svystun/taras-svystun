@@ -10,7 +10,7 @@
 - :watermelon:Favotite fruit :watermelon:
 
 #### 📫 How to reach me:
-- telegram: https://t.me/taras_taras_taras_taras_taras
+- telegram: https://t.me/taras_svystun
 - :telephone_receiver: phone: +380 50 676 2515 :telephone_receiver:
 - :email: taras.svystun@ucu.edu.ua :email:
 
