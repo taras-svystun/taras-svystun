@@ -23,8 +23,7 @@ I am just at the beginning of my wonderfull jorney to the ML world, but when I a
 
 ## If you got impressed - offer me a job	:point_right::point_left:
 
-### [Taras_Svystun_CV.pdf](https://github.com/taras-svystun/taras-svystun/files/7775706/Taras_Svystun_CV.pdf)
-
+### [Taras_Svystun_CV.pdf](https://github.com/taras-svystun/taras-svystun/files/8843882/Taras_Svystun_CV.pdf)
  
 #### 💬 Ask me about:
 - running :muscle:
