@@ -2,6 +2,8 @@
 
 ## My name is Taras Svystun.
 
+I am passionate about applying math to real-world problems. Currently I finished my second year at Ukrainian Catholic University. I dream to become a scientist. Statistics, calculus and linear algebra fascinates me! Python is my second native language after ukrainian, english is the third.
+I am just at the beginning of my wonderfull jorney to the ML world, but when I am charmed by something - I study with a speed of light.
 
 
 #### ⚡ Fun facts:
@@ -32,19 +34,17 @@
 - volunteering 	:earth_africa:
 
 #### 👯 I’m looking to collaborate on anything:
-* programming: Python, Java, C++
-* any research: R or Excel
+* programming: Python, R, Jupyter
+* any research
 * humor
 * maths
 * sports
 * travelling
 
 #### 🤔 I’m looking for help with 
-* C++
-* Java OOP
-* neural networks
-* AI
-* python web
+* Machine Learning
+* Researches
+* Deep Learning
 
 ### Thanks for reading till now 	:handshake:
 ### Have a nice life! :tongue:
