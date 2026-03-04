@@ -20,7 +20,7 @@ I am passionate about applying math to solve challenging real-world problems and
 #### 🌱 I’m currently learning IT & Business Analytics at Ukrainian Catholic University
 
 
-## If you got impressed - offer me a job	:point_right::point_left:
+## If you got impressed - offer me a job
 
 ### [Taras_Svystun_CV.pdf](https://github.com/taras-svystun/taras-svystun/files/10043175/Taras_Svystun_CV.pdf)
  
